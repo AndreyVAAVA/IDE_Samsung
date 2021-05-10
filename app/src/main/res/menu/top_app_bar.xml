@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/launch"
+        android:icon="@drawable/ic_compile"
+        android:title="Hy"
+        android:contentDescription="Cool"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/build"
+        android:icon="@drawable/ic_build"
+        android:title="Hy"
+        android:contentDescription="Cool"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/stop"
+        android:icon="@drawable/ic_stop"
+        android:title="Stop"
+        android:contentDescription="Cool"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/save"
+        android:title="Save"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:contentDescription=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/commit"
+        android:title="Commit"
+        android:contentDescription=""
+        app:showAsAction="never" />
+</menu>

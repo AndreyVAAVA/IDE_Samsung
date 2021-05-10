@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IDE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repo">Repository link</string>
+    <string name="directory_name">Directory name</string>
+    <string name="branch_name">Branch name</string>
+    <string name="account_name">Account name</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+</resources>
